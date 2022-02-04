@@ -5,6 +5,10 @@
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
+  "dependencies": {
+    "@headlessui/vue": "1.4.3",
+    "@heroicons/vue": "1.0.5"
+  },
   "devDependencies": {
     "autoprefixer": "10.4.2",
     "nuxt3": "latest",

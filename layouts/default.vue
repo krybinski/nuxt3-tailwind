@@ -6,5 +6,4 @@
   </Html>
   <Header />
   <slot />
-  <Footer />
 </template>

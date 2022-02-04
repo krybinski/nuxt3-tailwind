@@ -10,7 +10,13 @@ module.exports = {
   ],
   darkMode: true,
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        main: '#341f97',
+        'main-darken': '#2b1889',
+        'main-dark': '#1f1068',
+      },
+    },
   },
   variants: {
     extend: {},
